@@ -46,10 +46,10 @@ the spelling of 'SPECTOGRAAAAMS' and we have our flag:
 'EZ-CTF{KNOW_YOUR_SPECTOGRAAAMS}'
 
 ---
-##Software Used:
-###Audacity - https://www.audacityteam.org/
+## Software Used:
+### Audacity - https://www.audacityteam.org/
 - Can be downloaded and installed on Kali via apt
 - Audacity has had some [shady stuff](https://www.slashgear.com/787715/audacity-open-source-audio-editor-has-become-spyware/) going on so read up on it
 and take the necessary steps.
-###Sonic Visualizer - https://www.sonicvisualiser.org/doc/reference/2.1/en/index.html
+### Sonic Visualizer - https://www.sonicvisualiser.org/doc/reference/2.1/en/index.html
 I mainly use the [spectrogram](https://www.sonicvisualiser.org/doc/reference/2.1/en/index.html#spectrogram) currently
