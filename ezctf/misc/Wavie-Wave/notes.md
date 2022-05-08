@@ -1,10 +1,11 @@
 
-# EZ CTF INC 2022
+# Wavie Wave
+### EZ CTF INC 2022\
 ### Official URL: https://ez.ctf.cafe/
 ---
-### In Misc Category:
-### Name: Wavie Wave
-### Solves: 227  
+### In Misc Category:\
+### Name: Wavie Wave\
+### Solves: 227\  
 ### Difficulty: Medium
 
 What the hell is this sound that got into my
