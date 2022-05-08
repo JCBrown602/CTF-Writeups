@@ -1,11 +1,11 @@
 
 # Wavie Wave
-### EZ CTF INC 2022\
+### EZ CTF INC 2022
 ### Official URL: https://ez.ctf.cafe/
 ---
-### In Misc Category:\
-### Name: Wavie Wave\
-### Solves: 227\  
+### In Misc Category:
+### Name: Wavie Wave
+### Solves: 227  
 ### Difficulty: Medium
 
 What the hell is this sound that got into my
@@ -16,9 +16,8 @@ Hint: Especto Patronum
 
 Flag format: EZ-CTF{FULL_MESSAGE}
 
-'''
 ![Card](card_wavie-wave.JPG)
-'''
+
 ---
 
 The link downloads a zip file which contains WavieWave.wav audio file.
@@ -27,15 +26,12 @@ After listening to the file, the anomaly can definitely be heard. Opening
 the file with Audacity shows the anomaly clearly as well but there doesn't
 seem to be any apparent patterns that jump out.
 
-'''
 ![Audacity](audacity.JPG)
-'''
 
 Since nothing catches our attention this far, we open the file with a
 software called Sonic Visualizer. This program has a spectrogram feature
 that is very useful for finding hidden messages in wav files.
 
-'''
 ![Sonic Visualizer](wavie-wav.JPG)
 
 It is difficult to see but we can make out:
