@@ -1,11 +1,11 @@
 
-#EZ CTF INC 2022
-###Official URL: https://ez.ctf.cafe/
+# EZ CTF INC 2022
+### Official URL: https://ez.ctf.cafe/
 ---
-###In Misc Category:
-###Name: Wavie Wave
-###Solves: 227  
-###Difficulty: Medium
+### In Misc Category:
+### Name: Wavie Wave
+### Solves: 227  
+### Difficulty: Medium
 
 What the hell is this sound that got into my
 "Chill Bird Vibes Vol XXI" mixtape?
@@ -42,6 +42,7 @@ It is difficult to see but we can make out:
 
 We add in underscores between the words, EZ- at the beginning, and keep
 the spelling of 'SPECTOGRAAAAMS' and we have our flag:
+
 'EZ-CTF{KNOW_YOUR_SPECTOGRAAAMS}'
 
 ---
