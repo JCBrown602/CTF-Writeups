@@ -1,4 +1,4 @@
-# DEFCON 30 - mic_check_1 - Team PFAATX
+# DEFCON 30 - mic_check_1 - Team PFAATZ
 # Python socket code
 import socket
 
